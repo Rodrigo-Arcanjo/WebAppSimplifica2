@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebAppSimplifica2
+/WebAppSimplifica2/bin
+/WebAppSimplifica2/obj
+/WebAppSimplifica2/appsettings.Development.json
+/WebAppSimplifica2/appsettings.json
+/WebAppSimplifica2/Persistence/ConnectionDbContext.cs
+/WebAppSimplifica2/Properties
+/WebAppSimplifica2/GrupoRecursosApiSimplificaMobile.xml
